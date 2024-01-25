@@ -1,3 +1,3 @@
 module github.com/wxz1211/unpla_standard_response
 
-go 1.21.5
+go 1.19
