@@ -1,3 +1,3 @@
-module gitsh.vargo.com.cn/appstore/vargo-api
+module github.com/wxz1211/unpla_standard_response
 
-go 1.18
+go 1.21.5
