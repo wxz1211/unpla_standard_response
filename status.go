@@ -55,7 +55,6 @@ var Message map[int]string
 
 func init() {
 	Message = make(map[int]string)
-
 	Message[SystemError] = "系统错误"
 	Message[OK] = "操作成功"
 	Message[NoContent] = "内容为空"
