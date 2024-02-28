@@ -66,4 +66,5 @@ func(c *gin.Context) {
 	//ConfirmPassError 两次密码输入不一致
 	ConfirmPassError = 1305
 	// 待续...
+	
 ```
